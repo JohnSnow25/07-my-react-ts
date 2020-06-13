@@ -1,11 +1,15 @@
-.home-page {
-    width: 350px;
+.opt-con {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.btn-con {
+    width: 240px;
     margin: 100px auto;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
-  }
-  .home-page .ant-btn {
+}
+.btn-con .ant-btn {
     margin-right: 20px;
-  }
-  
+}
